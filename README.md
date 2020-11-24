@@ -1,6 +1,6 @@
 # RusLit
 
-![Chekhov and Tolstoy, 1901](https://en.wikipedia.org/wiki/Russian_literature#/media/File:Tolstoy_and_chekhov.jpg)
+![Chekhov and Tolstoy, 1901](Tolstoy_and_Chekhov_1901.jpg)
 
 ## Description
 
