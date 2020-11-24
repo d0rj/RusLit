@@ -12,4 +12,4 @@ This can be useful for data analysis - used as a dataset.
 
 All works contained in this repository are in the public domain. Anyone is free to copy, modify, publish, use, sell, or distribute for any purpose, commercial or non-commercial, and by any means.
 
-Most of the works are taken from the [LitLib site](https://www.litlib.net/), but some are from the [Wikisource](https://en.wikisource.org/wiki/Main_Page).
+Works are taken from the [LitLib site](https://www.litlib.net/), [Wikisource](https://en.wikisource.org/wiki/Main_Page), [Ilibrary](https://ilibrary.ru/) and other sources.
