@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository contains a collection of Russian literature in txt format (UTF-9 encoding). 
+This repository contains a collection of Russian literature in txt format (UTF-8 encoding). 
 
 This can be useful for data analysis - used as a dataset.
 
